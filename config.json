@@ -1,5 +1,5 @@
 {
-  "active": false,
+  "active": true,
   "version": "1.0",
   "note": "Set active to false to disable app"
 }
